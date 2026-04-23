@@ -31,15 +31,19 @@ const Modal = ({ img, title, date, subTitle, paraList, modalClose }) => {
                 <p key={index}>{element.text}</p>
               ))}
             <div className="blog-meta">
-              <label>Share</label>
+              <label>Github Repository</label>
               <ul className="nav social-link">
-                {portfolioData.map((element) => (
+                {link ? (
                   <li>
-                    <a href={element.link}>
-                      <Icon icon={`fa6-brands:github`} />
+                    <a href={link} target="_blank" rel="noreferrer">
+                      <Icon icon="fa6-brands:github" />
                     </a>
                   </li>
-                ))}
+                ) : (
+                  <li>
+                    <span>No link available</span>
+                  </li>
+                )}
               </ul>
             </div>
           </div>
