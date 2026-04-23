@@ -1,0 +1,333 @@
+{
+  "headerData": {
+    "logoDark": "/images/logo_white.png",
+    "logoLight": "/images/logo_white.png"
+  },
+  "heroData": {
+    "title": "Dēivid</b> <span><br />Sans</span>",
+    "subTitle": "<span>Full-Stack Web Developer</span> & <span>Motion Graphics Designer</span>",
+    "ImgLink": "/images/home-banner.webp",
+    "phone": "+52 8441394193",
+    "email": "deividsans@icloud.com",
+    "btnText": "Let's work together!",
+    "socialData": [
+      {
+        "link": "https://github.com/davidsini?tab=repositories",
+        "icon": "github"
+      },
+      {
+        "link": "https://www.instagram.com/hey.its.deivid/",
+        "icon": "instagram"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/banner-cropped-round-orange-glasses.webp",
+      "name": "",
+      "designation": "",
+      "resumeCv": "/Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": "Creative developer with a background in audiovisual communication, which means I don't just build websites — I build stories. I bridge the gap between technical architecture and visual aesthetics, using React and Full-Stack tools to create high-performance experiences that actually feel like something. ",
+      "contactInfo": [
+        {
+          "icon": "phone",
+          "data": "+528441394193"
+        },
+        {
+          "icon": "person",
+          "data": "Dēivid Sans"
+        },
+        {
+          "icon": "envelope",
+          "data": "deividsans@icloud.com"
+        },
+        {
+          "icon": "map",
+          "data": "Saltillo, Mexico"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "10+",
+          "meta": "Years <br /> experience...",
+          "text": "Hello there! My name is <span>Dēivid Sans</span>. I am a web designer & developer, and Im very passionate and dedicated to my work."
+        },
+        {
+          "number": "30+",
+          "meta": "Clients <br /> Worldwide...",
+          "text": "With 10+ years experience as a professional designer, I have acquired the skills to make your project a success."
+        }
+      ],
+      "note": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus sed sit ultrices et sed metus sollicitudin.”"
+    }
+  },
+  "experienceData": {
+    "text": "",
+    "resumeCv": "/Resume.pdf",
+    "experience": [
+      {
+        "start": "May 2025",
+        "end": "Apr 2026",
+        "title": "Full Stack Web Developer",
+        "subtitle": "TripleTen",
+        "description_line_1": "Developed and deployed responsive web applications using React and Node.js, focusing on clean code and optimized performance.",
+        "description_line_2": "Collaborated on end-to-end projects from API integration to frontend UI/UX implementation."
+      },
+      {
+        "start": "May 2025",
+        "end": "Present",
+        "title": "Senior Video Editor",
+        "subtitle": "BAD Marketing (USA - remote)",
+        "description_line_1": "Optimized workflow processes, reducing review times by 15%.",
+        "description_line_2": "Managed project timelines and quality, delivering up to 2 days ahead of schedule."
+      },
+      {
+        "start": "Feb 2025",
+        "end": "Dec 2025",
+        "title": "Motion Graphics Designer",
+        "subtitle": "TrueInsight (Canada - remote)",
+        "description_line_1": "Developed metric-driven content, achieving over 20,000 views per publication.",
+        "description_line_2": "Coordinated automotive and real-estate projects using agile methodologies."
+      }
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "Web Development",
+      "triger": "One",
+      "imgLink": "/images/web-development.jpg",
+      "text": "Specialized in creating dynamic web solutions using the MERN stack (MongoDB, Express, React, and Node.js). Focused on writing clean, maintainable code and implementing responsive designs with Tailwind CSS and SCSS. My background in visual communication allows me to bridge the gap between complex backend logic and intuitive, high-impact user interfaces."
+    },
+    {
+      "title": "Motion Graphics",
+      "triger": "Two",
+      "imgLink": "/images/motion-design.jpg",
+      "text": "Expert in bringing brands to life through dynamic visual storytelling and high-end animation. Leveraging my background in Visual Communication, I specialize in creating engaging motion assets, promotional videos, and UI animations using After Effects and Premiere Pro. I focus on merging timing, typography, and rhythm to deliver compelling narratives that capture audience attention across all digital platforms."
+    },
+    {
+      "title": "Video Editing",
+      "triger": "Three",
+      "imgLink": "/images/video-editing.jpg",
+      "text": "Professional video editor with a focus on high-impact post-production for digital content and corporate projects. I combine technical precision in Premiere Pro and DaVinci Resolve with a deep understanding of visual rhythm and narrative flow. From color grading to sound design, I transform raw footage into polished, professional stories tailored for social media, marketing campaigns, and educational platforms."
+    }
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "/images/services-1.jpg",
+      "subTitle": "Frontend",
+      "title": "Pokémon Finder",
+      "link": "https://github.com/davidsini/pokemon-finder-frontend",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-2.jpg",
+      "subTitle": "UX case study",
+      "title": "Artificial Research",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-3.jpg",
+      "subTitle": "UX case study",
+      "title": "Website Research",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-4.jpg",
+      "subTitle": "UX case study",
+      "title": "Robotics Research",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        },
+        {
+          "imgLink": "/images/brand-3.png"
+        },
+        {
+          "imgLink": "/images/brand-4.png"
+        },
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "Chat to us",
+        "text": "Our friendly team is there to help.",
+        "emailLink": "info@domainname.com"
+      },
+      {
+        "icon": "compass",
+        "title": "Visit us",
+        "text": "Come say hello at ur office HQ. Warnwe Park Streetperrine, FL 33157 New York City"
+      },
+      {
+        "icon": "phone",
+        "title": "Call us",
+        "text": "Mon-Fri from 8am to 5pm. +01 (555) 000-0000"
+      }
+    ],
+    "contactForm": {
+      "title": "Got Ideas? We have got the skills. Lets team up.",
+      "text": "Tell us more about yourself and what you are got in mind."
+    }
+  },
+  "footerData": {
+    "ImgLink": "/images/about-banner.jpg",
+    "name": "Dēivid Sans"
+  },
+  "socialData": [
+    {
+      "link": "https://github.com/davidsini?tab=repositories",
+      "icon": "github"
+    },
+    {
+      "link": "https://www.instagram.com/hey.its.deivid/",
+      "icon": "instagram"
+    }
+  ]
+}
