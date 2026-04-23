@@ -22,7 +22,7 @@ El objetivo es centralizar mi experiencia profesional, proyectos recientes y hab
 
 ### 🔗 Enlace al sitio
 
-> **Próximamente disponible en:** [Tu enlace aquí cuando lo publiques]
+> **Próximamente disponible en:**
 
 ---
 
