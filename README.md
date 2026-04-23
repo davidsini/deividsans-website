@@ -1,8 +1,7 @@
 # 🌐 deividsans-website
 
 <p align="center">
-  <strong>Mi rincón personal en la web</strong><br>
-  <em>Diseño, Código y Creatividad</em>
+  <strong>Portafolio profesional</strong><br>
 </p>
 
 <p align="center">
