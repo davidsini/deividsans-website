@@ -3,7 +3,7 @@ import { Icon } from "@iconify/react";
 import { socialData } from "../../data.json";
 import { portfolioData } from "../../data.json";
 
-const Modal = ({ img, title, date, subTitle, paraList, modalClose }) => {
+const Modal = ({ img, title, date, subTitle, paraList, modalClose, link }) => {
   const modalStyle = {
     backgroundColor: "rgba(0,0,0,.6)",
     backdropFilter: "saturate(180%) blur(8px)",
