@@ -73,15 +73,7 @@ const Header = ({ data }) => {
               Experience
             </ScrollLink>
           </li>
-          <li>
-            <ScrollLink
-              to="services"
-              spy={true}
-              duration={500}
-              onClick={() => setMobileToggle(false)}>
-              Services
-            </ScrollLink>
-          </li>
+
           <li>
             <ScrollLink
               to="work"
@@ -89,6 +81,15 @@ const Header = ({ data }) => {
               duration={500}
               onClick={() => setMobileToggle(false)}>
               Portfolio
+            </ScrollLink>
+          </li>
+          <li>
+            <ScrollLink
+              to="services"
+              spy={true}
+              duration={500}
+              onClick={() => setMobileToggle(false)}>
+              Services
             </ScrollLink>
           </li>
           <li>

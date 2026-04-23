@@ -346,10 +346,11 @@ a {
 .services-section {
   .accordion {
     .accordion-item {
-      background: none;
+      background: var(--px-bg);
       border: none;
-      padding: 0;
-      margin: 0;
+      padding: 0 25px;
+      width: 80vw;
+      margin: auto;
       color: $px-text;
       .accordion-button {
         border: none;
@@ -399,13 +400,13 @@ a {
             }
           }
           .services-title {
-            background: linear-gradient(270.16deg, var(--px-theme-2) 5.74%, var(--px-theme) 92.05%);
+            background: var(--px-white) ;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
             text-fill-color: transparent;
             &:after {
-              background: var(--px-theme);
+              background: var(--px-white);
             }
           }
           .services-small-desc {
@@ -461,6 +462,7 @@ a {
         h3 {
           font-weight: 700;
           margin-bottom: 20px;
+          
         }
       }
     }
