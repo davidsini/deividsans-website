@@ -115,16 +115,7 @@
       "link": "https://github.com/davidsini/pokemon-finder-frontend",
       "paragraphList": [
         {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "text": "Pokémon Finder is a responsive web application built with React and Vite as a final TripleTen bootcamp project. It features real-time data fetching from the PokéAPI with an integrated search history system using LocalStorage for persistence. I utilized Tailwind CSS for a mobile-first design and React Router for seamless single-page navigation. The project demonstrates proficiency in React Hooks for managing asynchronous state and complex API integration. It delivers a high-performance user experience with a polished UI and robust frontend architecture. This application showcases my ability to develop scalable, data-driven web solutions from scratch."
         }
       ]
     },
@@ -135,16 +126,7 @@
       "link": "https://github.com/davidsini/web_project_api_full/tree/main",
       "paragraphList": [
         {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "text": "This is a full-stack social gallery application built with the MERN stack (MongoDB, Express, React, and Node.js). It features secure JWT authentication, protected routes, and a RESTful API for managing user profiles and interactive image cards. The project highlights end-to-end development skills, including database integration, server-side validation, and a responsive frontend with global state management. It serves as a comprehensive demonstration of building secure, scalable, and data-driven web applications."
         }
       ]
     },
@@ -290,19 +272,13 @@
     "contactInfo": [
       {
         "icon": "chat-left-dots-fill",
-        "title": "Chat to us",
-        "text": "Our friendly team is there to help.",
+        "title": "Whatsapp",
         "emailLink": "info@domainname.com"
       },
       {
-        "icon": "compass",
-        "title": "Visit us",
+        "icon": "envelope",
+        "title": "Email me",
         "text": "Come say hello at ur office HQ. Warnwe Park Streetperrine, FL 33157 New York City"
-      },
-      {
-        "icon": "phone",
-        "title": "Call us",
-        "text": "Mon-Fri from 8am to 5pm. +01 (555) 000-0000"
       }
     ],
     "contactForm": {
